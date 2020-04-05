@@ -2,5 +2,7 @@
 *.csv
 *.txt
 *.pdf
+*.png
+*.dot
 .ipynb_checkpoints/
 Data/
